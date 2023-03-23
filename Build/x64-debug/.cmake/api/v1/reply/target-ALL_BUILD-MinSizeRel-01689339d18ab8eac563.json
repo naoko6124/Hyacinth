@@ -1,0 +1,36 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"Vendor/Glm/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Glm::@8283e12b4d815f2423e1"
+		}
+	],
+	"id" : "ALL_BUILD::@8283e12b4d815f2423e1",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : "Vendor/Glm",
+		"source" : "Vendor/Glm"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,36 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"Vendor/Glad/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Glad::@ef5354460e889755ce2f"
+		}
+	],
+	"id" : "ALL_BUILD::@ef5354460e889755ce2f",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : "Vendor/Glad",
+		"source" : "Vendor/Glad"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
